@@ -1,0 +1,35 @@
+{
+  "name": "elector-md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuki19992/Elector-MD.git"
+  },
+  "author": "kazuki-kushida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuki19992/Elector-MD/issues"
+  },
+  "homepage": "https://github.com/kazuki19992/Elector-MD#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "css-loader": "^3.4.0",
+    "electron": "^7.1.2",
+    "style-loader": "^1.0.2",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "photon": "github:connors/photon",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
